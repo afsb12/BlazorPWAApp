@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Data.DataSetExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Common">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Json">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Net.Http.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebAssemblyHttpHandler">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Net.Http.WebAssemblyHttpHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Runtime.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Internals">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.ServiceModel.Internals.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Transactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.Xml.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="WebAssembly.Bindings">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\WebAssembly.Bindings.dll</HintPath>
+    </Reference>
+    <Reference Include="WebAssembly.Net.WebSockets">
+      <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\WebAssembly.Net.WebSockets.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
