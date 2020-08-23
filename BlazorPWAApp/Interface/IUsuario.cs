@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using WebAssembly.Core;
 
 namespace Interface
 {
-    interface Interface1
+    public interface IUsuario
     {
     }
 }

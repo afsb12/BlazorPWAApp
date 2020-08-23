@@ -4,6 +4,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+  </PropertyGroup>
+
   <ItemGroup>
     <Reference Include="System">
       <HintPath>..\BlazorPWAApp\obj\Debug\netstandard2.1\blazor\unlinked\System.dll</HintPath>
