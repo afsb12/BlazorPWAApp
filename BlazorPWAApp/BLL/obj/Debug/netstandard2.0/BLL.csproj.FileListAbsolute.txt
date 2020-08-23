@@ -1,0 +1,7 @@
+D:\Documents\Projetos\BlazorPWAApp\BlazorPWAApp\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\Documents\Projetos\BlazorPWAApp\BlazorPWAApp\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\Documents\Projetos\BlazorPWAApp\BlazorPWAApp\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\Documents\Projetos\BlazorPWAApp\BlazorPWAApp\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\Documents\Projetos\BlazorPWAApp\BlazorPWAApp\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\Documents\Projetos\BlazorPWAApp\BlazorPWAApp\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\Documents\Projetos\BlazorPWAApp\BlazorPWAApp\BLL\obj\Debug\netstandard2.0\BLL.pdb
